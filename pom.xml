@@ -70,6 +70,7 @@ under the License.
 		<archunit.version>0.22.0</archunit.version>
 		<testcontainers.version>1.17.2</testcontainers.version>
 		<mockito.version>2.21.0</mockito.version>
+		<opensearch.version>2.4.0</opensearch.version>
 
 		<japicmp.skip>false</japicmp.skip>
 		<japicmp.referenceVersion>1.15.0</japicmp.referenceVersion>
